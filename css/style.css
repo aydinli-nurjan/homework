@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+}
+
+.main{
+    width: 100%;
+    min-height: 1500px;
+    float: left;
+    /* background-color: yellow; */
+}
+
+.smedia{
+    width: 100%;
+    height: 45px;
+    float: left;
+    background: #23bceb;
+}
+
+.email{
+    width: 260px;
+    height: inherit;
+    float: left;
+    /* background-color: blueviolet; */
+    margin-left: 120px;
+    font-size: small;
+    margin-right: 20px;
+}
+
+.call{
+    width: 160px;
+    height: inherit;
+    /* background: green; */
+    float: left;
+}
+
+.logos{
+    width: 120px;
+    height: inherit;
+    /* background-color: brown; */
+    float: left;
+    margin-left: 650px;
+}
+
+.header{
+    width: 100%;
+    height: 110px;
+    /* background-color: aqua; */
+    float: left;
+    padding: 25px 115px;
+    box-sizing: border-box;
+}
+
+.abvelt{
+    width: 55px;
+    height: 60px;
+    float: left;
+    /* background-color: blueviolet; */
+    color: #23bceb;
+}
+
+.div{
+    width: 100px;
+    height: 60px;
+    /* background-color: lightgreen; */
+    float: left;
+    margin-right: 5px;
+}
+
+.text{
+    width: 110px;
+    height: 60px;
+    float: left;
+    /* background-color: yellowgreen; */
+    margin-right: 200px;
+}
+
+.img{
+    width: 100%;
+    height: 610px;
+    background-color: lightcoral;
+    float: left;
+    padding: 150px 0 0 150px;
+    box-sizing: border-box;
+    background-image: url(https://media.licdn.com/dms/image/C4E12AQFYCfyD_PLAQg/article-cover_image-shrink_600_2000/0/1520204091538?e=2147483647&v=beta&t=U1xqaAQsXUgbJTzoKYjRrEjwTtcXRmvFv5x8p9zDIPU);
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.tbbc{
+    width: 650px;
+    height: 320px;
+    float: left;
+    /* background-color: black; */
+}
+
+.words{
+    width: 650px;
+    height: 220px;
+    /* background-color: lightslategray; */
+    margin-bottom: 10px;
+}
+
+.now{
+    width: 185px;
+    height: 60px;
+    background-color: #23bceb;
+    float: left;
+}
+
+.icons{
+    width: 120px;
+    height: 40px;
+    /* background-color: aqua; */
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 540px;
+
+}
+
+.aboutUs{
+    width: 100%;
+    height: 100px;
+    /* background-color: violet; */
+    float: left;
+    margin-bottom: 20px;
+}
+
+.d{
+    width: 220px;
+    height: 40px;
+    /* background-color: lightseagreen; */
+    padding-left: 30px;
+    box-sizing: border-box; 
+}
+
+.word{
+    width: 220px;
+    height: 100px;
+    /* background-color: red; */
+    margin-left: 640px;
+}
+
+.button{
+    width: 40px;
+    height: 6px;
+    background-color: #23bceb;
+    border-radius: 60px;
+    margin-left: 90px;
+}
+
+.foot{
+    width: 1155px;
+    height: 360px;
+    /* background-color: bisque; */
+    float: left;
+    margin: 0 140px;
+}
+
+.right{
+    width: 780px;
+    min-height: 280px;
+    float: left;
+    /* background-color: pink; */
+    margin-right: 10px;
+}
+/* 
+.but{
+    width: 80px;
+    height: 40px;
+    background-color: #23bceb;
+    float: left;
+} */
+
+.left{
+    width: 365px;
+    height: 360px;
+    background-color: green;
+    float: left;
+    border-radius: 8px;
+    background-image: url(https://i.pinimg.com/474x/fd/19/34/fd1934c12d35202a041bb9c0b04f4d26.jpg);
+}
+
+.disFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
